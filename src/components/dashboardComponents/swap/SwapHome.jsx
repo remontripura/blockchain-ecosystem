@@ -3,17 +3,9 @@ import toggleImg from "../../../assets/icon/dashboard-icon/Group 16.svg";
 import pmlogo from "../../../assets/icon/dashboard-icon/pmlogo.svg";
 import BizToken from "../../../assets/icon/dashboard-icon/BizToken.svg";
 import arrow from "../../../assets/icon/dashboard-icon/angle-down.svg";
-import bizToken from "../../../assets/dashboardImg/bizToken.svg";
-const options = [
-  {
-    value: 1,
-    label: "Leanne Graham",
-  },
-  {
-    value: 2,
-    label: "Ervin Howell",
-  },
-];
+
+
+import bizToken from "../../../assets/dashboardImg/BizToken.svg";
 const SwapHome = () => {
   return (
     <div className="lg:ml-[35px] md:mx-5 mx-3 mb-10 flex lg:flex-row flex-col gap-5">
